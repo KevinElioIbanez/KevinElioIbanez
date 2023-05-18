@@ -2,7 +2,7 @@
 
 - Estudiante de Desarrollo Web en Undefined.Academy
                     
-###Comandos Shell
+##Comandos Shell
 
 | Comandos  | Descripción |
 | ------------- | ------------- |
@@ -13,7 +13,7 @@
 | cp  | copiar archivos                             |
 | mv  | mueve o renombra archivos y directorios     |
 
-###Comandos Alias
+##Comandos Alias
 
 | Alias                       | Descripción                    |
 | --------------------------- | ------------------------------ |
