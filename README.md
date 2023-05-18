@@ -1,44 +1,22 @@
 ### Hola, Soy Kevin Desarrollador Web
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
-
-# Editor.md
+- Estudiante de Desarrollo Web en Undefined.Academy
                     
-###Tables
-                    
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+###Comandos Shell
 
-| First Header  | Second Header |
+| Comandos  | Descripción |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ls  | lista los contenidos dentro del directorio  |
+| cd  | permite moverte entre los directorios       |
+| pwd | muestra la ruta relativa donde te encuentras|
+| rm  | elimina archivos                            |
+| cp  | copiar archivos                             |
+| mv  | mueve o renombra archivos y directorios     |
 
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
+###Comandos Alias
 
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
+| Alias                       | Descripción                    |
+| --------------------------- | ------------------------------ |
+| alias npmd="npm run dev"    | 	Iniciar proyecto node en dev |
+| alias npms="npm start"      | iniciar proyecto node          |
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-                
-----
-
-###End
